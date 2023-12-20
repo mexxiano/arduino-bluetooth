@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Arduino Bluetooth</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bienvenidos a la APP Android Bluetooth</string>
+</resources>
